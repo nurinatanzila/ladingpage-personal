@@ -1,0 +1,13 @@
+*
+.jumbotron {
+    background-color: #f1a9ee;
+    padding-top: 6rem;
+}
+
+#project{
+    background-color: rgb(252, 181, 246);
+}
+
+section {
+    padding-top: 4rem;
+}
